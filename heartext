@@ -1,0 +1,23 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://www.adaheartpool.com/wp-content/uploads/2020/10/AdaHeartICON1-64x64-1.png",
+        "url_png_logo": "https://www.adaheartpool.com/wp-content/uploads/2020/09/ADAHEART-MASTER-VERT-Simple-2-BOLD-300x300.png",
+        "social": {
+            "twitter_handle": "adaheartpool",
+            "telegram_handle": "rjmcoin",
+            "facebook_handle": "adaheartpool",
+            "youtube_handle": "adaheartpool",
+            "discord_handle": "rjmcoin",
+            "github_handle": "rjmcoin"
+        },
+        "about": {
+            "me": "Active Cardano community member on Reddit, Cardano Forum and Twitter since early 2018",
+            "server": "Currently cloud infrastructute, potential hybrid in the future",
+    },
+    "my-pool-ids": {
+        "0": "f8b811d63ef2ac9e19eff41ab7a99f37b82da701f8ddb34d6d12cdb7",
+
+            }
+        }
+    }
+}
